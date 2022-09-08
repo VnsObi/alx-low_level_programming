@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
-* A rogram that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line.
+* main - program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line.
+return: Your program should return 0
 */
 
 int main(void)
