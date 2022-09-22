@@ -3,7 +3,6 @@
 /**
  * print_line - a function that draws a straight line in the terminal.
  */
- 
 void print_line(int n)
 {
 	if (n <= 0)
