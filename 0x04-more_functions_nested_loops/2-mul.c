@@ -1,8 +1,10 @@
 #include "main.h"
 
 /**
- * mul -  a function that multiplies two integers.
- * Return: the result of the multiplication
+ * mul - Function that multiplies two integers
+ * @a: Number to be multiply
+ * @b: Number to be multiply
+ * Return: arithmetic operation
  */
 int mul(int a, int b)
 {
