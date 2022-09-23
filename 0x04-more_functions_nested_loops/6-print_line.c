@@ -1,8 +1,10 @@
 #include "main.h"
 
 /**
- * print_line - a function that draws a straight line in the terminal.
- */
+  * print_line - print  a line
+  * @n: numbers of straigh lines
+  * Return: Always 0.
+  */
 void print_line(int n)
 {
 	if (n <= 0)
