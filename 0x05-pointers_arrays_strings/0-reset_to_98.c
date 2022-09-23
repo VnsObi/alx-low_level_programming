@@ -2,7 +2,7 @@
 
 /**
  * reset_to_98 -a function that swaps the values of two integers.
- * Return: 0.
+ * @n: The pointer to an int.
  */
 void reset_to_98(int *n)
 {
